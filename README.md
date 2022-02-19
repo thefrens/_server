@@ -1,1 +1,3 @@
-# server
+# The Frens Server
+
+## Loading...
